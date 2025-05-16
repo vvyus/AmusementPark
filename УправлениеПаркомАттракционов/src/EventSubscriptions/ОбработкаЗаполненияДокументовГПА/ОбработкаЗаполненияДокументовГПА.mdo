@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:EventSubscription xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f81e1955-d3d3-4de9-b342-b9f16fc6f502">
+  <name>ОбработкаЗаполненияДокументовГПА</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработка заполнения документов ГПА</value>
+  </synonym>
+  <source>
+    <types>DocumentObject.ШкалаБонуснойПрограммы</types>
+    <types>DocumentObject.ГПА_РемонтАттракционов</types>
+  </source>
+  <event>Filling</event>
+  <handler>CommonModule.ЗаполнениеДокументовУПА.ОбработкаЗаполнения</handler>
+</mdclass:EventSubscription>

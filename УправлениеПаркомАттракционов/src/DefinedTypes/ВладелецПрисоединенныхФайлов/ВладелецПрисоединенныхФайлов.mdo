@@ -12,5 +12,6 @@
     <types>CatalogRef.ПапкиФайлов</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
     <types>DocumentRef.ПродажаБилета</types>
+    <types>DocumentRef.ГПА_РемонтАттракционов</types>
   </type>
 </mdclass:DefinedType>
