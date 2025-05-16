@@ -6,8 +6,8 @@
     <value>Стандартные подсистемы</value>
   </synonym>
   <subsystems>АдресныйКлассификатор</subsystems>
-  <subsystems>БазоваяФункциональность</subsystems>
   <subsystems>АнализЖурналаРегистрации</subsystems>
+  <subsystems>БазоваяФункциональность</subsystems>
   <subsystems>ВариантыОтчетов</subsystems>
   <subsystems>ГенерацияШтрихкода</subsystems>
   <subsystems>ГрафикиРаботы</subsystems>
