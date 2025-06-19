@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="84b9abc5-2fc6-469f-9da0-85991a7165c7">
+  <name>Ремонт</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ремонт</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <useOneCommand>true</useOneCommand>
+  <content>Document.ГПА_РемонтАттракционов</content>
+</mdclass:Subsystem>

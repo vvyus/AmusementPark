@@ -355,6 +355,49 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
+      <name>ЭтоЛьготныйПериод</name>
+      <id>37</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <dataPath xsi:type="form:DataPath">
+        <segments>Список.ЭтоЛьготныйПериод</segments>
+      </dataPath>
+      <extendedTooltip>
+        <name>ЭтоЛьготныйПериодРасширеннаяПодсказка</name>
+        <id>39</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <contextMenu>
+        <name>ЭтоЛьготныйПериодКонтекстноеМеню</name>
+        <id>38</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <autoFill>true</autoFill>
+      </contextMenu>
+      <type>CheckBoxField</type>
+      <editMode>Enter</editMode>
+      <showInHeader>true</showInHeader>
+      <headerHorizontalAlign>Left</headerHorizontalAlign>
+      <showInFooter>true</showInFooter>
+      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+    </items>
+    <items xsi:type="form:FormField">
       <name>Ссылка</name>
       <id>31</id>
       <visible>true</visible>
@@ -639,37 +682,33 @@
     </notDefaultUseAlwaysAttributes>
     <main>true</main>
     <extInfo xsi:type="form:DynamicListExtInfo">
-      <queryText>ВЫБРАТЬ 
-       ПродажаБилета.Ссылка, 
-       ПродажаБилета.ПометкаУдаления, 
-       ПродажаБилета.Номер, 
-       ПродажаБилета.Дата, 
-       ПродажаБилета.Проведен, 
-       ПродажаБилета.УдалитьНоменклатура, 
-       ПродажаБилета.Клиент, 
-       ПродажаБилета.УдалитьЦена, 
-       ПродажаБилета.БаллыКСписанию, 
-       ПродажаБилета.СуммаДокумента, 
-       ПродажаБилета.Комментарий, 
-       ПродажаБилета.Ответственный, 
-       ПродажаБилета.ПозицииПродажи.*, 
-       ПродажаБилета.МоментВремени,
-        ВЫБОР
-        КОГДА НаличиеФайлов.ЕстьФайлы ЕСТЬ NULL ТОГДА
-            0
-        КОГДА НаличиеФайлов.ЕстьФайлы ТОГДА
-            1
-        ИНАЧЕ
-            0
-    КОНЕЦ КАК ЕстьФайлы
- ИЗ 
-       Документ.ПродажаБилета 
-        
- КАК 
-       ПродажаБилета
-       
-       ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
-        ПО ПродажаБилета.Ссылка = НаличиеФайлов.ОбъектСФайлами</queryText>
+      <queryText>ВЫБРАТЬ
+	ПродажаБилета.Ссылка,
+	ПродажаБилета.ПометкаУдаления,
+	ПродажаБилета.Номер,
+	ПродажаБилета.Дата,
+	ПродажаБилета.Проведен,
+	ПродажаБилета.УдалитьНоменклатура,
+	ПродажаБилета.Клиент,
+	ПродажаБилета.УдалитьЦена,
+	ПродажаБилета.БаллыКСписанию,
+	ПродажаБилета.СуммаДокумента,
+	ПродажаБилета.Комментарий,
+	ПродажаБилета.Ответственный,
+	ПродажаБилета.ЭтоЛьготныйПериод,
+	ПродажаБилета.ПозицииПродажи.*,
+	ПродажаБилета.МоментВремени,
+	ВЫБОР
+		КОГДА НаличиеФайлов.ЕстьФайлы ЕСТЬ NULL
+			ТОГДА 0
+		КОГДА НаличиеФайлов.ЕстьФайлы
+			ТОГДА 1
+		ИНАЧЕ 0
+	КОНЕЦ КАК ЕстьФайлы
+ИЗ
+	Документ.ПродажаБилета КАК ПродажаБилета
+		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
+		ПО ПродажаБилета.Ссылка = НаличиеФайлов.ОбъектСФайлами</queryText>
       <mainTable>Document.ПродажаБилета</mainTable>
       <dynamicDataRead>true</dynamicDataRead>
       <autoFillAvailableFields>true</autoFillAvailableFields>
@@ -697,20 +736,8 @@
         <field>Проведен</field>
       </fields>
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
-        <dataPath>МоментВремени</dataPath>
-        <field>МоментВремени</field>
-      </fields>
-      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
-        <dataPath>УдалитьНоменклатура</dataPath>
-        <field>УдалитьНоменклатура</field>
-      </fields>
-      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>Клиент</dataPath>
         <field>Клиент</field>
-      </fields>
-      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
-        <dataPath>УдалитьЦена</dataPath>
-        <field>УдалитьЦена</field>
       </fields>
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>БаллыКСписанию</dataPath>
@@ -727,6 +754,26 @@
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>Ответственный</dataPath>
         <field>Ответственный</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ЭтоЛьготныйПериод</dataPath>
+        <field>ЭтоЛьготныйПериод</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>УдалитьНоменклатура</dataPath>
+        <field>УдалитьНоменклатура</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>УдалитьЦена</dataPath>
+        <field>УдалитьЦена</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ПозицииПродажи</dataPath>
+        <field>ПозицииПродажи</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>МоментВремени</dataPath>
+        <field>МоментВремени</field>
       </fields>
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ПозицииПродажи.Ссылка</dataPath>
@@ -751,10 +798,6 @@
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ПозицииПродажи.Сумма</dataPath>
         <field>ПозицииПродажи.Сумма</field>
-      </fields>
-      <fields xsi:type="schema:DataCompositionSchemaNestedDataSet">
-        <dataPath>ПозицииПродажи</dataPath>
-        <field>ПозицииПродажи</field>
       </fields>
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ЕстьФайлы</dataPath>
