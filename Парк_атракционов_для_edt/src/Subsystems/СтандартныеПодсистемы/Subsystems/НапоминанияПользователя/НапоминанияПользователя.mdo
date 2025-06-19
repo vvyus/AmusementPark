@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="da9b32e6-5b93-45a6-84b2-238d57541e18">
+  <name>НапоминанияПользователя</name>
+  <synonym>
+    <key>ru</key>
+    <value>Напоминания пользователя</value>
+  </synonym>
+  <content>CommonPicture.ЦентрОповещений</content>
+  <content>InformationRegister.НапоминанияПользователя</content>
+  <content>CommonModule.НапоминанияПользователя</content>
+  <content>CommonModule.НапоминанияПользователяГлобальный</content>
+  <content>CommonCommand.Напомнить</content>
+  <content>Enum.СпособыУстановкиВремениНапоминания</content>
+  <content>CommonModule.НапоминанияПользователяКлиентСервер</content>
+  <content>Constant.ИспользоватьКомандуНапоминаний</content>
+  <content>FunctionalOption.ИспользоватьНапоминанияПользователя</content>
+  <content>CommonModule.НапоминанияПользователяКлиент</content>
+  <content>CommonModule.НапоминанияПользователяСлужебный</content>
+  <content>DefinedType.ПредметНапоминания</content>
+  <content>DefinedType.ПредметНапоминанияОбъект</content>
+  <content>CommonPicture.Напоминание</content>
+  <content>CommonModule.НапоминанияПользователяСлужебныйКлиент</content>
+  <content>Constant.ИспользоватьНапоминанияПользователя</content>
+  <content>EventSubscription.ПроверитьИзмененияДатВПредмете</content>
+  <content>CommonModule.НапоминанияПользователяВызовСервера</content>
+  <content>CommonPicture.КоллекцияНапоминания</content>
+  <content>Role.ДобавлениеИзменениеНапоминаний</content>
+  <content>CommonModule.НапоминанияПользователяПереопределяемый</content>
+  <content>FunctionalOption.ИспользоватьКомандуНапоминаний</content>
+  <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
+</mdclass:Subsystem>
