@@ -118,10 +118,10 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <name>ВыбранныеФорматыSearchString</name>
+        <name>ВыбранныеФорматыСтрокаПоиска</name>
         <id>50</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыSearchStringExtendedTooltip</name>
+          <name>ВыбранныеФорматыSearchStringРасширеннаяПодсказка</name>
           <id>52</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -131,7 +131,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыSearchStringContextMenu</name>
+          <name>ВыбранныеФорматыСтрокаПоискаКонтекстноеМеню</name>
           <id>51</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -141,10 +141,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>ВыбранныеФорматыViewStatus</name>
+        <name>ВыбранныеФорматыСостояниеПросмотра</name>
         <id>53</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыViewStatusExtendedTooltip</name>
+          <name>ВыбранныеФорматыViewStatusРасширеннаяПодсказка</name>
           <id>55</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -154,7 +154,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыViewStatusContextMenu</name>
+          <name>ВыбранныеФорматыViewStatusКонтекстноеМеню</name>
           <id>54</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -165,10 +165,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>ВыбранныеФорматыSearchControl</name>
+        <name>ВыбранныеФорматыУправлениеПоиском</name>
         <id>56</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыSearchControlExtendedTooltip</name>
+          <name>ВыбранныеФорматыSearchControlРасширеннаяПодсказка</name>
           <id>58</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -178,7 +178,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыSearchControlContextMenu</name>
+          <name>ВыбранныеФорматыSearchControlКонтекстноеМеню</name>
           <id>57</id>
           <autoFill>true</autoFill>
         </contextMenu>

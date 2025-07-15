@@ -734,10 +734,10 @@
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <name>СписокSearchString</name>
+      <name>СписокСтрокаПоиска</name>
       <id>73</id>
       <extendedTooltip>
-        <name>СписокSearchStringExtendedTooltip</name>
+        <name>СписокSearchStringРасширеннаяПодсказка</name>
         <id>75</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -747,7 +747,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокSearchStringContextMenu</name>
+        <name>СписокСтрокаПоискаКонтекстноеМеню</name>
         <id>74</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -757,10 +757,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>СписокViewStatus</name>
+      <name>СписокСостояниеПросмотра</name>
       <id>76</id>
       <extendedTooltip>
-        <name>СписокViewStatusExtendedTooltip</name>
+        <name>СписокViewStatusРасширеннаяПодсказка</name>
         <id>78</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -770,7 +770,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокViewStatusContextMenu</name>
+        <name>СписокСостояниеПросмотраКонтекстноеМеню</name>
         <id>77</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -781,10 +781,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>СписокSearchControl</name>
+      <name>СписокУправлениеПоиском</name>
       <id>79</id>
       <extendedTooltip>
-        <name>СписокSearchControlExtendedTooltip</name>
+        <name>СписокУправлениеПоискомРасширеннаяПодсказка</name>
         <id>81</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -794,7 +794,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокSearchControlContextMenu</name>
+        <name>СписокУправлениеПоискомКонтекстноеМеню</name>
         <id>80</id>
         <autoFill>true</autoFill>
       </contextMenu>

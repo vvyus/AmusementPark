@@ -2678,7 +2678,7 @@
                   <name>МестаИспользованияНеудаленныхОбработкаВыбора</name>
                 </handlers>
                 <searchStringAddition>
-                  <name>СвязиНеУдаленныхСтрокаПоиска</name>
+                  <name>МестаИспользованияНеудаленныхСтрокаПоиска</name>
                   <id>427</id>
                   <extendedTooltip>
                     <name>СвязиНеУдаленныхСтрокаПоискаРасширеннаяПодсказка</name>
@@ -2701,7 +2701,7 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <name>СвязиНеУдаленныхСостояниеПросмотра</name>
+                  <name>МестаИспользованияНеудаленныхСостояниеПросмотра</name>
                   <id>430</id>
                   <extendedTooltip>
                     <name>СвязиНеУдаленныхСостояниеПросмотраРасширеннаяПодсказка</name>
@@ -2725,7 +2725,7 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <name>СвязиНеУдаленныхУправлениеПоиском</name>
+                  <name>МестаИспользованияНеудаленныхУправлениеПоиском</name>
                   <id>433</id>
                   <extendedTooltip>
                     <name>СвязиНеУдаленныхУправлениеПоискомРасширеннаяПодсказка</name>

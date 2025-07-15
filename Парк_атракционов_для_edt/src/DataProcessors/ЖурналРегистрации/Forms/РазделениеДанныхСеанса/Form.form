@@ -190,10 +190,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>РазделениеДанныхСеансаSearchString</name>
+      <name>РазделениеДанныхСеансаСтрокаПоиска</name>
       <id>29</id>
       <extendedTooltip>
-        <name>РазделениеДанныхСеансаSearchStringExtendedTooltip</name>
+        <name>РазделениеДанныхСеансаSearchStringРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -203,7 +203,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РазделениеДанныхСеансаSearchStringContextMenu</name>
+        <name>РазделениеДанныхСеансаSearchStringКонтекстноеМеню</name>
         <id>30</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -213,10 +213,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>РазделениеДанныхСеансаViewStatus</name>
+      <name>РазделениеДанныхСеансаСостояниеПросмотра</name>
       <id>32</id>
       <extendedTooltip>
-        <name>РазделениеДанныхСеансаViewStatusExtendedTooltip</name>
+        <name>РазделениеДанныхСеансаViewStatusРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -226,7 +226,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РазделениеДанныхСеансаViewStatusContextMenu</name>
+        <name>РазделениеДанныхСеансаСостояниеПросмотраКонтекстноеМеню</name>
         <id>33</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -237,10 +237,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>РазделениеДанныхСеансаSearchControl</name>
+      <name>РазделениеДанныхСеансаУправлениеПоиском</name>
       <id>35</id>
       <extendedTooltip>
-        <name>РазделениеДанныхСеансаSearchControlExtendedTooltip</name>
+        <name>РазделениеДанныхСеансаSearchControlРасширеннаяПодсказка</name>
         <id>37</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -250,7 +250,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РазделениеДанныхСеансаSearchControlContextMenu</name>
+        <name>РазделениеДанныхСеансаУправлениеПоискомКонтекстноеМеню</name>
         <id>36</id>
         <autoFill>true</autoFill>
       </contextMenu>

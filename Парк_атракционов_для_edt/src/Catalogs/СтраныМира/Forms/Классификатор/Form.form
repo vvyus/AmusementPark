@@ -560,10 +560,10 @@
       <name>КлассификаторПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <name>КлассификаторSearchString</name>
+      <name>КлассификаторСтрокаПоиска</name>
       <id>69</id>
       <extendedTooltip>
-        <name>КлассификаторSearchStringExtendedTooltip</name>
+        <name>КлассификаторСтрокаПоискаРасширеннаяПодсказка</name>
         <id>71</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -573,7 +573,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КлассификаторSearchStringContextMenu</name>
+        <name>КлассификаторСтрокаПоискаКонтекстноеМеню</name>
         <id>70</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -583,10 +583,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>КлассификаторViewStatus</name>
+      <name>КлассификаторСостояниеПросмотра</name>
       <id>72</id>
       <extendedTooltip>
-        <name>КлассификаторViewStatusExtendedTooltip</name>
+        <name>КлассификаторViewStatusРасширеннаяПодсказка</name>
         <id>74</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -596,7 +596,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КлассификаторViewStatusContextMenu</name>
+        <name>КлассификаторСостояниеПросмотраКонтекстноеМеню</name>
         <id>73</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -607,10 +607,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>КлассификаторSearchControl</name>
+      <name>КлассификаторУправлениеПоиском</name>
       <id>75</id>
       <extendedTooltip>
-        <name>КлассификаторSearchControlExtendedTooltip</name>
+        <name>КлассификаторУправлениеПоискомРасширеннаяПодсказка</name>
         <id>77</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -620,7 +620,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КлассификаторSearchControlContextMenu</name>
+        <name>КлассификаторSearchControlКонтекстноеМеню</name>
         <id>76</id>
         <autoFill>true</autoFill>
       </contextMenu>

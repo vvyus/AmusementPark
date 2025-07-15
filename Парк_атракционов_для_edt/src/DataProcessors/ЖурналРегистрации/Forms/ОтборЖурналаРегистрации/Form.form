@@ -627,10 +627,10 @@
           <horizontalAlign>Right</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <name>ВажностьSearchString</name>
+          <name>ВажностьСтрокаПоиска</name>
           <id>267</id>
           <extendedTooltip>
-            <name>ВажностьSearchStringExtendedTooltip</name>
+            <name>ВажностьСтрокаПоискаРасширеннаяПодсказка</name>
             <id>269</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -640,7 +640,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ВажностьSearchStringContextMenu</name>
+            <name>ВажностьСтрокаПоискаКонтекстноеМеню</name>
             <id>268</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -650,10 +650,10 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <name>ВажностьViewStatus</name>
+          <name>ВажностьСостояниеПросмотра</name>
           <id>270</id>
           <extendedTooltip>
-            <name>ВажностьViewStatusExtendedTooltip</name>
+            <name>ВажностьViewStatusРасширеннаяПодсказка</name>
             <id>272</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -663,7 +663,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ВажностьViewStatusContextMenu</name>
+            <name>ВажностьViewStatusКонтекстноеМеню</name>
             <id>271</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -674,10 +674,10 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <name>ВажностьSearchControl</name>
+          <name>ВажностьУправлениеПоиском</name>
           <id>273</id>
           <extendedTooltip>
-            <name>ВажностьSearchControlExtendedTooltip</name>
+            <name>ВажностьSearchControlРасширеннаяПодсказка</name>
             <id>275</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -687,7 +687,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ВажностьSearchControlContextMenu</name>
+            <name>ВажностьУправлениеПоискомКонтекстноеМеню</name>
             <id>274</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1782,10 +1782,10 @@
           <horizontalAlign>Right</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <name>СтатусТранзакцииSearchString</name>
+          <name>СтатусТранзакцииСтрокаПоиска</name>
           <id>276</id>
           <extendedTooltip>
-            <name>СтатусТранзакцииSearchStringExtendedTooltip</name>
+            <name>СтатусТранзакцииSearchStringРасширеннаяПодсказка</name>
             <id>278</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1795,7 +1795,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>СтатусТранзакцииSearchStringContextMenu</name>
+            <name>СтатусТранзакцииSearchStringКонтекстноеМеню</name>
             <id>277</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1805,10 +1805,10 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <name>СтатусТранзакцииViewStatus</name>
+          <name>СтатусТранзакцииСостояниеПросмотра</name>
           <id>279</id>
           <extendedTooltip>
-            <name>СтатусТранзакцииViewStatusExtendedTooltip</name>
+            <name>СтатусТранзакцииСостояниеПросмотраРасширеннаяПодсказка</name>
             <id>281</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1818,7 +1818,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>СтатусТранзакцииViewStatusContextMenu</name>
+            <name>СтатусТранзакцииViewStatusКонтекстноеМеню</name>
             <id>280</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1829,10 +1829,10 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <name>СтатусТранзакцииSearchControl</name>
+          <name>СтатусТранзакцииУправлениеПоиском</name>
           <id>282</id>
           <extendedTooltip>
-            <name>СтатусТранзакцииSearchControlExtendedTooltip</name>
+            <name>СтатусТранзакцииУправлениеПоискомРасширеннаяПодсказка</name>
             <id>284</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1842,7 +1842,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>СтатусТранзакцииSearchControlContextMenu</name>
+            <name>СтатусТранзакцииSearchControlКонтекстноеМеню</name>
             <id>283</id>
             <autoFill>true</autoFill>
           </contextMenu>

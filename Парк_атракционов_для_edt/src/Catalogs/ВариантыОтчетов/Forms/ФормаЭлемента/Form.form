@@ -977,10 +977,10 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <name>ДеревоПодсистемSearchString</name>
+          <name>ДеревоПодсистемСтрокаПоиска</name>
           <id>206</id>
           <extendedTooltip>
-            <name>ДеревоПодсистемSearchStringExtendedTooltip</name>
+            <name>ДеревоПодсистемSearchStringРасширеннаяПодсказка</name>
             <id>208</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -990,7 +990,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ДеревоПодсистемSearchStringContextMenu</name>
+            <name>ДеревоПодсистемСтрокаПоискаКонтекстноеМеню</name>
             <id>207</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1000,10 +1000,10 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <name>ДеревоПодсистемViewStatus</name>
+          <name>ДеревоПодсистемСостояниеПросмотра</name>
           <id>209</id>
           <extendedTooltip>
-            <name>ДеревоПодсистемViewStatusExtendedTooltip</name>
+            <name>ДеревоПодсистемСостояниеПросмотраРасширеннаяПодсказка</name>
             <id>211</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1013,7 +1013,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ДеревоПодсистемViewStatusContextMenu</name>
+            <name>ДеревоПодсистемСостояниеПросмотраКонтекстноеМеню</name>
             <id>210</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1024,10 +1024,10 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <name>ДеревоПодсистемSearchControl</name>
+          <name>ДеревоПодсистемУправлениеПоиском</name>
           <id>212</id>
           <extendedTooltip>
-            <name>ДеревоПодсистемSearchControlExtendedTooltip</name>
+            <name>ДеревоПодсистемУправлениеПоискомРасширеннаяПодсказка</name>
             <id>214</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1037,7 +1037,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ДеревоПодсистемSearchControlContextMenu</name>
+            <name>ДеревоПодсистемУправлениеПоискомКонтекстноеМеню</name>
             <id>213</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -1473,10 +1473,10 @@
         <autoFill>true</autoFill>
       </autoCommandBar>
       <searchStringAddition>
-        <name>РазмещениеSearchString</name>
+        <name>РазмещениеСтрокаПоиска</name>
         <id>215</id>
         <extendedTooltip>
-          <name>РазмещениеSearchStringExtendedTooltip</name>
+          <name>РазмещениеСтрокаПоискаРасширеннаяПодсказка</name>
           <id>217</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1486,7 +1486,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>РазмещениеSearchStringContextMenu</name>
+          <name>РазмещениеСтрокаПоискаКонтекстноеМеню</name>
           <id>216</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -1496,10 +1496,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>РазмещениеViewStatus</name>
+        <name>РазмещениеСостояниеПросмотра</name>
         <id>218</id>
         <extendedTooltip>
-          <name>РазмещениеViewStatusExtendedTooltip</name>
+          <name>РазмещениеСостояниеПросмотраРасширеннаяПодсказка</name>
           <id>220</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1509,7 +1509,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>РазмещениеViewStatusContextMenu</name>
+          <name>РазмещениеСостояниеПросмотраКонтекстноеМеню</name>
           <id>219</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -1520,10 +1520,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>РазмещениеSearchControl</name>
+        <name>РазмещениеУправлениеПоиском</name>
         <id>221</id>
         <extendedTooltip>
-          <name>РазмещениеSearchControlExtendedTooltip</name>
+          <name>РазмещениеУправлениеПоискомРасширеннаяПодсказка</name>
           <id>223</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1533,7 +1533,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>РазмещениеSearchControlContextMenu</name>
+          <name>РазмещениеSearchControlКонтекстноеМеню</name>
           <id>222</id>
           <autoFill>true</autoFill>
         </contextMenu>

@@ -555,10 +555,10 @@
       <name>ДеревоВариантовОтчетаПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <name>ДеревоВариантовОтчетаSearchString</name>
+      <name>ДеревоВариантовОтчетаСтрокаПоиска</name>
       <id>47</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаSearchStringExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаSearchStringРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -568,7 +568,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаSearchStringContextMenu</name>
+        <name>ДеревоВариантовОтчетаSearchStringКонтекстноеМеню</name>
         <id>48</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -578,10 +578,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ДеревоВариантовОтчетаViewStatus</name>
+      <name>ДеревоВариантовОтчетаСостояниеПросмотра</name>
       <id>50</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаViewStatusExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаViewStatusРасширеннаяПодсказка</name>
         <id>52</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -591,7 +591,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаViewStatusContextMenu</name>
+        <name>ДеревоВариантовОтчетаViewStatusКонтекстноеМеню</name>
         <id>51</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -602,10 +602,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ДеревоВариантовОтчетаSearchControl</name>
+      <name>ДеревоВариантовОтчетаУправлениеПоиском</name>
       <id>53</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаSearchControlExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаУправлениеПоискомРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -615,7 +615,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаSearchControlContextMenu</name>
+        <name>ДеревоВариантовОтчетаSearchControlКонтекстноеМеню</name>
         <id>54</id>
         <autoFill>true</autoFill>
       </contextMenu>

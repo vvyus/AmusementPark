@@ -131,10 +131,10 @@
       <name>УзлыПлановОбменаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <name>УзлыПлановОбменаSearchString</name>
+      <name>УзлыПлановОбменаСтрокаПоиска</name>
       <id>33</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchStringExtendedTooltip</name>
+        <name>УзлыПлановОбменаСтрокаПоискаРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -144,7 +144,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchStringContextMenu</name>
+        <name>УзлыПлановОбменаСтрокаПоискаКонтекстноеМеню</name>
         <id>34</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -154,10 +154,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>УзлыПлановОбменаViewStatus</name>
+      <name>УзлыПлановОбменаСостояниеПросмотра</name>
       <id>36</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаViewStatusExtendedTooltip</name>
+        <name>УзлыПлановОбменаViewStatusРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -167,7 +167,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаViewStatusContextMenu</name>
+        <name>УзлыПлановОбменаСостояниеПросмотраКонтекстноеМеню</name>
         <id>37</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -178,10 +178,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>УзлыПлановОбменаSearchControl</name>
+      <name>УзлыПлановОбменаУправлениеПоиском</name>
       <id>39</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchControlExtendedTooltip</name>
+        <name>УзлыПлановОбменаSearchControlРасширеннаяПодсказка</name>
         <id>41</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -191,7 +191,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchControlContextMenu</name>
+        <name>УзлыПлановОбменаУправлениеПоискомКонтекстноеМеню</name>
         <id>40</id>
         <autoFill>true</autoFill>
       </contextMenu>

@@ -116,10 +116,10 @@
       <name>РасписаниеРаботыПриОкончанииРедактирования</name>
     </handlers>
     <searchStringAddition>
-      <name>РасписаниеРаботыSearchString</name>
+      <name>РасписаниеРаботыСтрокаПоиска</name>
       <id>17</id>
       <extendedTooltip>
-        <name>РасписаниеРаботыSearchStringExtendedTooltip</name>
+        <name>РасписаниеРаботыСтрокаПоискаРасширеннаяПодсказка</name>
         <id>19</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -129,7 +129,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РасписаниеРаботыSearchStringContextMenu</name>
+        <name>РасписаниеРаботыSearchStringКонтекстноеМеню</name>
         <id>18</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -139,10 +139,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>РасписаниеРаботыViewStatus</name>
+      <name>РасписаниеРаботыСостояниеПросмотра</name>
       <id>20</id>
       <extendedTooltip>
-        <name>РасписаниеРаботыViewStatusExtendedTooltip</name>
+        <name>РасписаниеРаботыСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -152,7 +152,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РасписаниеРаботыViewStatusContextMenu</name>
+        <name>РасписаниеРаботыСостояниеПросмотраКонтекстноеМеню</name>
         <id>21</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -163,10 +163,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>РасписаниеРаботыSearchControl</name>
+      <name>РасписаниеРаботыУправлениеПоиском</name>
       <id>23</id>
       <extendedTooltip>
-        <name>РасписаниеРаботыSearchControlExtendedTooltip</name>
+        <name>РасписаниеРаботыУправлениеПоискомРасширеннаяПодсказка</name>
         <id>25</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -176,7 +176,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>РасписаниеРаботыSearchControlContextMenu</name>
+        <name>РасписаниеРаботыУправлениеПоискомКонтекстноеМеню</name>
         <id>24</id>
         <autoFill>true</autoFill>
       </contextMenu>

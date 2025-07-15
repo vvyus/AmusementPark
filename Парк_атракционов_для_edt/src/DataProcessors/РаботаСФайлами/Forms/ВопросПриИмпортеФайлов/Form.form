@@ -114,10 +114,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>ФайлыБольшиеSearchString</name>
+      <name>ФайлыБольшиеСтрокаПоиска</name>
       <id>28</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеSearchStringExtendedTooltip</name>
+        <name>ФайлыБольшиеСтрокаПоискаРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -127,7 +127,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеSearchStringContextMenu</name>
+        <name>ФайлыБольшиеСтрокаПоискаКонтекстноеМеню</name>
         <id>29</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -137,10 +137,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ФайлыБольшиеViewStatus</name>
+      <name>ФайлыБольшиеСостояниеПросмотра</name>
       <id>31</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеViewStatusExtendedTooltip</name>
+        <name>ФайлыБольшиеViewStatusРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -150,7 +150,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеViewStatusContextMenu</name>
+        <name>ФайлыБольшиеСостояниеПросмотраКонтекстноеМеню</name>
         <id>32</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -161,10 +161,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ФайлыБольшиеSearchControl</name>
+      <name>ФайлыБольшиеУправлениеПоиском</name>
       <id>34</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеSearchControlExtendedTooltip</name>
+        <name>ФайлыБольшиеSearchControlРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -174,7 +174,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеSearchControlContextMenu</name>
+        <name>ФайлыБольшиеУправлениеПоискомКонтекстноеМеню</name>
         <id>35</id>
         <autoFill>true</autoFill>
       </contextMenu>

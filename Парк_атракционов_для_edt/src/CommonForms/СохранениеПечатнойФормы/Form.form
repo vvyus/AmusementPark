@@ -266,10 +266,10 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <name>ВыбранныеФорматыСохраненияSearchString</name>
+        <name>ВыбранныеФорматыСохраненияСтрокаПоиска</name>
         <id>95</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияSearchStringExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияСтрокаПоискаРасширеннаяПодсказка</name>
           <id>97</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -279,7 +279,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияSearchStringContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияSearchStringКонтекстноеМеню</name>
           <id>96</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -289,10 +289,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>ВыбранныеФорматыСохраненияViewStatus</name>
+        <name>ВыбранныеФорматыСохраненияСостояниеПросмотра</name>
         <id>98</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияViewStatusExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияСостояниеПросмотраРасширеннаяПодсказка</name>
           <id>100</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -302,7 +302,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияViewStatusContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияСостояниеПросмотраКонтекстноеМеню</name>
           <id>99</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -313,10 +313,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>ВыбранныеФорматыСохраненияSearchControl</name>
+        <name>ВыбранныеФорматыСохраненияУправлениеПоиском</name>
         <id>101</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияSearchControlExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияУправлениеПоискомРасширеннаяПодсказка</name>
           <id>103</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -326,7 +326,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияSearchControlContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияSearchControlКонтекстноеМеню</name>
           <id>102</id>
           <autoFill>true</autoFill>
         </contextMenu>
