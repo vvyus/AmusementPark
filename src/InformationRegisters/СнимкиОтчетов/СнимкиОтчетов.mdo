@@ -154,6 +154,7 @@
     </synonym>
     <type>
       <types>CatalogRef.ИдентификаторыОбъектовРасширений</types>
+      <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
       <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

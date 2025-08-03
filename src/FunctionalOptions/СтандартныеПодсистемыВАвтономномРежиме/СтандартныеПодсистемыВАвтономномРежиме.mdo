@@ -8,5 +8,4 @@
   <location>Constant.СтандартныеПодсистемыВАвтономномРежиме</location>
   <privilegedGetMode>true</privilegedGetMode>
   <content>Catalog.Пользователи.Command.ПользователиИнформационнойБазы</content>
-  <content>DataProcessor.УстановкаОбновлений</content>
 </mdclass:FunctionalOption>

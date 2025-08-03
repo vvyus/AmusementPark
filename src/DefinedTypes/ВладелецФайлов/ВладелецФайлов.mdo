@@ -9,9 +9,6 @@
     <value>Владелец файлов</value>
   </synonym>
   <type>
-    <types>DocumentRef.Отсутствие</types>
     <types>CatalogRef.ПапкиФайлов</types>
-    <types>DocumentRef.ГПА_РемонтАттракционов</types>
-    <types>DocumentRef.ПродажаБилета</types>
   </type>
 </mdclass:DefinedType>

@@ -28,6 +28,11 @@
         <extendedTooltip>
           <name>ИмяУстройстваРасширеннаяПодсказка</name>
           <id>56</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -38,6 +43,11 @@
         <contextMenu>
           <name>ИмяУстройстваКонтекстноеМеню</name>
           <id>5</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -77,6 +87,11 @@
       <extendedTooltip>
         <name>ГруппаШапкаРасширеннаяПодсказка</name>
         <id>109</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -126,6 +141,11 @@
 &lt;b>Расширенные&lt;/>&lt;b> &lt;/>&lt;b>в&lt;/>&lt;b> &lt;/>&lt;b>диалоге&lt;/>&lt;b> &lt;/>&lt;b>сканера&lt;/> - отображается диалог сканера, в котором можно задать другие дополнительные настройки, специфичные для конкретного устройства.
 </value>
           </title>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <formatted>true</formatted>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -137,6 +157,11 @@
         <contextMenu>
           <name>ПоказыватьДиалогСканераКонтекстноеМеню</name>
           <id>143</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>InputField</type>
@@ -181,6 +206,11 @@
       <extendedTooltip>
         <name>ГруппаДиалогаРасширеннаяПодсказка</name>
         <id>138</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -237,6 +267,11 @@
 &lt;b>600&lt;/>&lt;b> &lt;/>&lt;b>dpi&lt;/> подходит для сканирования цветных изображений типографского качества, которые потом можно вывести на высококачественном или широкоформатном принтере. Изображения занимают большой объем.
 &lt;b>1200&lt;/>&lt;b> &lt;/>&lt;b>dpi&lt;/> для сканирования профессиональных фотографий типографского качества. Изображения занимают большой объем.</value>
               </title>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <formatted>true</formatted>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -248,6 +283,11 @@
             <contextMenu>
               <name>РазрешениеКонтекстноеМеню</name>
               <id>15</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -284,6 +324,11 @@
             <extendedTooltip>
               <name>ЦветностьРасширеннаяПодсказка</name>
               <id>73</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -294,6 +339,11 @@
             <contextMenu>
               <name>ЦветностьКонтекстноеМеню</name>
               <id>17</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -330,6 +380,11 @@
             <extendedTooltip>
               <name>ПоворотРасширеннаяПодсказка</name>
               <id>74</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -340,6 +395,11 @@
             <contextMenu>
               <name>ПоворотКонтекстноеМеню</name>
               <id>21</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -376,6 +436,11 @@
             <extendedTooltip>
               <name>РазмерБумагиРасширеннаяПодсказка</name>
               <id>75</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -386,6 +451,11 @@
             <contextMenu>
               <name>РазмерБумагиКонтекстноеМеню</name>
               <id>23</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -431,6 +501,11 @@
                   <key>ru</key>
                   <value>Это функция сканеров и многофункциональных устройств (МФУ), позволяющая производить автоматическое сканирование документа с двух сторон. Доступна не во всех моделях устройств.</value>
                 </title>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -441,6 +516,11 @@
               <contextMenu>
                 <name>ДвустороннееСканированиеКонтекстноеМеню</name>
                 <id>29</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>CheckBoxField</type>
@@ -469,6 +549,11 @@
               <extendedTooltip>
                 <name>АвтоматическаяПодачаДокументовРасширеннаяПодсказка</name>
                 <id>174</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -479,6 +564,11 @@
               <contextMenu>
                 <name>АвтоматическаяПодачаДокументовКонтекстноеМеню</name>
                 <id>173</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>CheckBoxField</type>
@@ -500,6 +590,11 @@
             <extendedTooltip>
               <name>ГруппаАвтоПодачаРасширеннаяПодсказка</name>
               <id>176</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -530,6 +625,11 @@
           <extendedTooltip>
             <name>ГруппаПараметрыСканированияРасширеннаяПодсказка</name>
             <id>71</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -563,6 +663,11 @@
           <extendedTooltip>
             <name>ОткрытьНомераОтсканированныхФайловРасширеннаяПодсказка</name>
             <id>80</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -590,6 +695,11 @@
         <extendedTooltip>
           <name>ГруппаОсновноеРасширеннаяПодсказка</name>
           <id>82</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -638,6 +748,11 @@
               <extendedTooltip>
                 <name>ФорматСканированногоИзображенияРасширеннаяПодсказка</name>
                 <id>62</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -648,6 +763,11 @@
               <contextMenu>
                 <name>ФорматСканированногоИзображенияКонтекстноеМеню</name>
                 <id>43</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>InputField</type>
@@ -696,6 +816,11 @@
 
 &lt;b>Преобразовать в PDF&lt;/> позволяет поместить отсканированное изображение в PDF-файл. Возможно хранение многостраничных изображений.</value>
                 </title>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <formatted>true</formatted>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -707,6 +832,11 @@
               <contextMenu>
                 <name>ПреобразоватьВPDFКонтекстноеМеню</name>
                 <id>113</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>CheckBoxField</type>
@@ -728,6 +858,11 @@
             <extendedTooltip>
               <name>ГруппаФорматаСканированногоИзображенияРасширеннаяПодсказка</name>
               <id>61</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -760,6 +895,11 @@
             <extendedTooltip>
               <name>ОписаниеФорматаОдностраничногоДокументаРасширеннаяПодсказка</name>
               <id>117</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -770,6 +910,11 @@
             <contextMenu>
               <name>ОписаниеФорматаОдностраничногоДокументаКонтекстноеМеню</name>
               <id>116</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <formatted>true</formatted>
@@ -803,6 +948,11 @@
               <extendedTooltip>
                 <name>ДекорацияСжатиеJPGРасширеннаяПодсказка</name>
                 <id>128</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -813,6 +963,11 @@
               <contextMenu>
                 <name>ДекорацияСжатиеJPGКонтекстноеМеню</name>
                 <id>127</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>Label</type>
@@ -847,6 +1002,11 @@
               <extendedTooltip>
                 <name>КачествоJPGРасширеннаяПодсказка</name>
                 <id>67</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -857,6 +1017,11 @@
               <contextMenu>
                 <name>КачествоJPGКонтекстноеМеню</name>
                 <id>31</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>TrackBarField</type>
@@ -892,6 +1057,11 @@
               <extendedTooltip>
                 <name>ДекорацияКачествоJPGРасширеннаяПодсказка</name>
                 <id>125</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -902,6 +1072,11 @@
               <contextMenu>
                 <name>ДекорацияКачествоJPGКонтекстноеМеню</name>
                 <id>124</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>Label</type>
@@ -926,6 +1101,11 @@
             <extendedTooltip>
               <name>ГруппаКачествоJPGРасширеннаяПодсказка</name>
               <id>122</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -961,6 +1141,11 @@
             <extendedTooltip>
               <name>СжатиеTIFFРасширеннаяПодсказка</name>
               <id>68</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -971,6 +1156,11 @@
             <contextMenu>
               <name>СжатиеTIFFКонтекстноеМеню</name>
               <id>33</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -1002,6 +1192,11 @@
           <extendedTooltip>
             <name>ГруппаФорматСканированногоИзображенияРасширеннаяПодсказка</name>
             <id>60</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1047,6 +1242,11 @@ TIF - Не все браузеры отображают этот формат.</
             <extendedTooltip>
               <name>ФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
               <id>70</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -1057,6 +1257,11 @@ TIF - Не все браузеры отображают этот формат.</
             <contextMenu>
               <name>ФорматХраненияМногостраничныйКонтекстноеМеню</name>
               <id>41</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -1088,6 +1293,11 @@ TIF - Не все браузеры отображают этот формат.</
           <extendedTooltip>
             <name>ГруппаФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
             <id>69</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1146,6 +1356,11 @@ TIF - Не все браузеры отображают этот формат.</
 
 </value>
                   </title>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
                   <formatted>true</formatted>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1157,6 +1372,11 @@ TIF - Не все браузеры отображают этот формат.</
                 <contextMenu>
                   <name>СпособПреобразованияВPDFКонтекстноеМеню</name>
                   <id>135</id>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
                   <autoFill>true</autoFill>
                 </contextMenu>
                 <type>RadioButtonField</type>
@@ -1198,6 +1418,11 @@ TIF - Не все браузеры отображают этот формат.</
               <extendedTooltip>
                 <name>ГруппаПереключательImageMagikРасширеннаяПодсказка</name>
                 <id>133</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -1233,6 +1458,11 @@ TIF - Не все браузеры отображают этот формат.</
               <extendedTooltip>
                 <name>ИспользоватьImageMagickДляПреобразованияВPDFЗаголовокРасширеннаяПодсказка</name>
                 <id>105</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -1243,6 +1473,11 @@ TIF - Не все браузеры отображают этот формат.</
               <contextMenu>
                 <name>ИспользоватьImageMagickДляПреобразованияВPDFЗаголовокКонтекстноеМеню</name>
                 <id>104</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
               <formatted>true</formatted>
@@ -1265,6 +1500,11 @@ TIF - Не все браузеры отображают этот формат.</
             <extendedTooltip>
               <name>ГруппаИспользоватьImageMagickРасширеннаяПодсказка</name>
               <id>102</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -1301,6 +1541,11 @@ TIF - Не все браузеры отображают этот формат.</
             <extendedTooltip>
               <name>ПутьКПрограммеКонвертацииРасширеннаяПодсказка</name>
               <id>59</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -1311,6 +1556,11 @@ TIF - Не все браузеры отображают этот формат.</
             <contextMenu>
               <name>ПутьКПрограммеКонвертацииКонтекстноеМеню</name>
               <id>35</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>InputField</type>
@@ -1349,6 +1599,11 @@ TIF - Не все браузеры отображают этот формат.</
           <extendedTooltip>
             <name>ГруппаPDFРасширеннаяПодсказка</name>
             <id>57</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1377,6 +1632,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ГруппаДополнительныеНастройкиРасширеннаяПодсказка</name>
           <id>84</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1406,6 +1666,11 @@ TIF - Не все браузеры отображают этот формат.</
       <extendedTooltip>
         <name>ГруппаПараметрыРасширеннаяПодсказка</name>
         <id>107</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -1452,6 +1717,11 @@ TIF - Не все браузеры отображают этот формат.</
           <extendedTooltip>
             <name>ИспользоватьКаталогЖурналаСканированияРасширеннаяПодсказка</name>
             <id>164</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1462,6 +1732,11 @@ TIF - Не все браузеры отображают этот формат.</
           <contextMenu>
             <name>ИспользоватьКаталогЖурналаСканированияКонтекстноеМеню</name>
             <id>163</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
           <type>CheckBoxField</type>
@@ -1496,6 +1771,11 @@ TIF - Не все браузеры отображают этот формат.</
               <value>При аварийном завершении приложения в указанный каталог будет сохранена информация для технической поддержки. 
 Предоставьте ее в службу поддержки фирмы &quot;1С&quot;.</value>
             </title>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1506,6 +1786,11 @@ TIF - Не все браузеры отображают этот формат.</
           <contextMenu>
             <name>КаталогЖурналаСканированияКонтекстноеМеню</name>
             <id>158</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
           <type>InputField</type>
@@ -1544,6 +1829,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ГруппаКаталогЖурналаДиагностикиРасширеннаяПодсказка</name>
           <id>169</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1576,6 +1866,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ИнформацияДляТехническойПоддержкиРасширеннаяПодсказка</name>
           <id>167</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1586,6 +1881,11 @@ TIF - Не все браузеры отображают этот формат.</
         <contextMenu>
           <name>ИнформацияДляТехническойПоддержкиКонтекстноеМеню</name>
           <id>166</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
         <type>Label</type>
@@ -1611,6 +1911,11 @@ TIF - Не все браузеры отображают этот формат.</
       <extendedTooltip>
         <name>ГруппаДиагностикаПроблемРасширеннаяПодсказка</name>
         <id>161</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -1648,6 +1953,11 @@ TIF - Не все браузеры отображают этот формат.</
     <extendedTooltip>
       <name>ГруппаНастройкиРасширеннаяПодсказка</name>
       <id>55</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -1686,6 +1996,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>КартинкаОшибкиСканированияРасширеннаяПодсказка</name>
           <id>149</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1696,6 +2011,11 @@ TIF - Не все браузеры отображают этот формат.</
         <contextMenu>
           <name>КартинкаОшибкиСканированияКонтекстноеМеню</name>
           <id>148</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1722,6 +2042,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ТекстОшибкиСканированияРасширеннаяПодсказка</name>
           <id>152</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1732,6 +2057,11 @@ TIF - Не все браузеры отображают этот формат.</
         <contextMenu>
           <name>ТекстОшибкиСканированияКонтекстноеМеню</name>
           <id>151</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
         <formatted>true</formatted>
@@ -1757,6 +2087,11 @@ TIF - Не все браузеры отображают этот формат.</
       <extendedTooltip>
         <name>ОшибкаСканированияРасширеннаяПодсказка</name>
         <id>146</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -1793,6 +2128,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ОКРасширеннаяПодсказка</name>
           <id>50</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1820,6 +2160,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ОтменаРасширеннаяПодсказка</name>
           <id>51</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1846,6 +2191,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>СправкаРасширеннаяПодсказка</name>
           <id>52</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1879,6 +2229,11 @@ TIF - Не все браузеры отображают этот формат.</
           <extendedTooltip>
             <name>УстановитьСтандартныеНастройкиРасширеннаяПодсказка</name>
             <id>78</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1905,6 +2260,11 @@ TIF - Не все браузеры отображают этот формат.</
           <extendedTooltip>
             <name>ИзменитьФормуРасширеннаяПодсказка</name>
             <id>171</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -1932,6 +2292,11 @@ TIF - Не все браузеры отображают этот формат.</
         <extendedTooltip>
           <name>ГруппаЕщеРасширеннаяПодсказка</name>
           <id>95</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1956,6 +2321,11 @@ TIF - Не все браузеры отображают этот формат.</
       <extendedTooltip>
         <name>ГруппаКоманднаяПанельРасширеннаяПодсказка</name>
         <id>156</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -1980,6 +2350,11 @@ TIF - Не все браузеры отображают этот формат.</
     <extendedTooltip>
       <name>ГруппаПодвалРасширеннаяПодсказка</name>
       <id>154</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -2001,6 +2376,11 @@ TIF - Не все браузеры отображают этот формат.</
   <autoCommandBar>
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
     <horizontalAlign>Right</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>

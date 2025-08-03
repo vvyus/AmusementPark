@@ -10,9 +10,10 @@
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.РазделАдминистрирование</picture>
   </picture>
-  <content>Catalog.УдалитьПользователи</content>
+  <content>Catalog.ПА_Пользователи</content>
   <content>Document.ПланированиеОтсутствия</content>
   <content>DataProcessor.ПланированиеОтпусков</content>
   <content>InformationRegister.ПлановыеОтсутствия</content>
-  <content>Document.Отсутствие</content>
+  <content>CommonCommand.ДополнительныеОбработкиПерсонал</content>
+  <content>CommonCommand.ДополнительныеОтчетыПерсонал</content>
 </mdclass:Subsystem>

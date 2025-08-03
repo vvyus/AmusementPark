@@ -10,11 +10,9 @@
     <value>Связанные документы</value>
   </synonym>
   <type>
-    <types>DocumentRef.ПосещениеАттракциона</types>
-    <types>DocumentRef.Отсутствие</types>
-    <types>DocumentRef.ПланированиеОтсутствия</types>
-    <types>DocumentRef.ПродажаБилета</types>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
   </type>
-  <content>Document.ПосещениеАттракциона.Attribute.Основание</content>
-  <content>Document.Отсутствие.Attribute.Основание</content>
 </mdclass:FilterCriterion>

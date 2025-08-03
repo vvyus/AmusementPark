@@ -17,12 +17,14 @@
     <types>CatalogObject.ПользовательскиеНастройкиОтчетов</types>
     <types>CatalogObject.ГруппыВнешнихПользователей</types>
     <types>ChartOfCharacteristicTypesObject.ДополнительныеРеквизитыИСведения</types>
+    <types>CatalogObject.ДополнительныеОтчетыИОбработки</types>
     <types>CatalogObject.ВнешниеПользователи</types>
     <types>CatalogObject.ЗначенияСвойствОбъектов</types>
     <types>CatalogObject.ЗначенияСвойствОбъектовИерархия</types>
     <types>CatalogObject.ГруппыДоступа</types>
     <types>CatalogObject.Файлы</types>
     <types>CatalogObject.ВариантыОтчетов</types>
+    <types>CatalogObject.Филиалы</types>
     <types>CatalogObject.Пользователи</types>
   </type>
 </mdclass:DefinedType>

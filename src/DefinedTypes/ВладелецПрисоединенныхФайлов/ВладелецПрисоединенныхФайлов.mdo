@@ -9,10 +9,11 @@
     <value>Владелец присоединенных файлов</value>
   </synonym>
   <type>
-    <types>DocumentRef.Отсутствие</types>
     <types>CatalogRef.ПапкиФайлов</types>
-    <types>DocumentRef.ГПА_РемонтАттракционов</types>
-    <types>DocumentRef.ПродажаБилета</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
+    <types>DocumentRef.ПродажаБилета</types>
+    <types>DocumentRef.УстановкаЦенНоменклатуры</types>
+    <types>CatalogRef.Клиенты</types>
+    <types>CatalogRef.Аттракционы</types>
   </type>
 </mdclass:DefinedType>

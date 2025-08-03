@@ -434,6 +434,7 @@
     <type>
       <types>CatalogRef.ИдентификаторыОбъектовРасширений</types>
       <types>String</types>
+      <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
       <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
       <stringQualifiers>
         <length>150</length>

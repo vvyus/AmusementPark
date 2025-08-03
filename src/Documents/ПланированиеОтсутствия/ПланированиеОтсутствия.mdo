@@ -20,7 +20,7 @@
   <fullTextSearch>Use</fullTextSearch>
   <listPresentation>
     <key>ru</key>
-    <value>Запланированные отсутствия</value>
+    <value>Список отсутствий</value>
   </listPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
@@ -77,7 +77,7 @@
       <value>Сотрудник</value>
     </synonym>
     <type>
-      <types>CatalogRef.УдалитьПользователи</types>
+      <types>CatalogRef.ПА_Пользователи</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -110,7 +110,7 @@
       <value>Ответственный</value>
     </synonym>
     <type>
-      <types>CatalogRef.УдалитьПользователи</types>
+      <types>CatalogRef.ПА_Пользователи</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -118,7 +118,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <forms uuid="30d9eee7-97fe-4477-8fca-236641981827">
+  <forms uuid="2e425a4b-2be8-4a1e-a024-2ac59da615ad">
     <name>ФормаДокумента</name>
     <synonym>
       <key>ru</key>
@@ -127,7 +127,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="67b1b11d-caac-4c9d-9f04-9de627ac4e77">
+  <forms uuid="8bde81c5-05a2-4b20-a410-51df6bff2b63">
     <name>ФормаСписка</name>
     <synonym>
       <key>ru</key>

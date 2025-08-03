@@ -57,7 +57,7 @@
       <value>Ответственный</value>
     </synonym>
     <type>
-      <types>CatalogRef.УдалитьПользователи</types>
+      <types>CatalogRef.Пользователи</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -83,7 +83,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="c94e29ec-be97-4384-9871-f409416c28eb">
+  <forms uuid="0031513d-2ff2-4728-b673-7ee49d3c04de">
     <name>ФормаСписка</name>
     <synonym>
       <key>ru</key>

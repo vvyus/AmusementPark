@@ -951,6 +951,7 @@
         <value>Отчет</value>
       </synonym>
       <type>
+        <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
         <types>CatalogRef.ВариантыОтчетов</types>
       </type>
       <toolTip>
@@ -1044,6 +1045,7 @@
         <value>Отчет</value>
       </synonym>
       <type>
+        <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
         <types>CatalogRef.ВариантыОтчетов</types>
       </type>
       <toolTip>

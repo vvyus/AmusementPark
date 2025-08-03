@@ -5,9 +5,11 @@
     <key>ru</key>
     <value>Проверить безопасный режим перед записью</value>
   </synonym>
+  <comment>// АПК:1371 проверка применима для всех объектов метаданных, в т.ч. удаляемых</comment>
   <source>
     <types>ConstantValueManager.МаксимальныйРазмерФайла</types>
     <types>ConstantValueManager.НеИспользоватьРазделениеПоОбластямДанных</types>
+    <types>CatalogObject.ХранилищеДвоичныхДанных</types>
     <types>ConstantValueManager.СписокЗапрещенныхРасширений</types>
     <types>CatalogObject.ВерсииФайлов</types>
     <types>ConstantValueManager.ХранитьИсториюРассылкиОтчетов</types>
@@ -36,6 +38,7 @@
     <types>ConstantValueManager.ОграничиватьДоступНаУровнеЗаписейУниверсально</types>
     <types>ConstantValueManager.ПутьКТомуБезУчетаРегиональныхНастроек</types>
     <types>ConstantValueManager.КаталогВременныхФайловДляWindows</types>
+    <types>ConstantValueManager.НастройкиРегистрацииСобытийДоступаКДанным</types>
     <types>ConstantValueManager.ХранитьФайлыВТомахНаДиске</types>
     <types>ConstantValueManager.ДоставлятьСерверныеОповещенияБезСистемыВзаимодействия</types>
     <types>ConstantValueManager.ПоследнееОбновлениеДоступа</types>
@@ -48,6 +51,7 @@
     <types>ConstantValueManager.МаксимальныйРазмерФайлаОбластиДанных</types>
     <types>ConstantValueManager.ИспользуютсяПрофилиБезопасности</types>
     <types>ConstantValueManager.ПараметрыХраненияФайловВИБ</types>
+    <types>ConstantValueManager.ИспользоватьДополнительныеОтчетыИОбработки</types>
     <types>ChartOfCharacteristicTypesObject.РазделыДатЗапретаИзменения</types>
     <types>ConstantValueManager.СведенияОбОбновленииИБ</types>
     <types>ConstantValueManager.СпособХраненияФайлов</types>
@@ -57,12 +61,12 @@
     <types>CatalogObject.ГруппыВнешнихПользователей</types>
     <types>ConstantValueManager.СписокРасширенийФайловOpenDocument</types>
     <types>ConstantValueManager.РежимОчисткиФайлов</types>
+    <types>CatalogObject.ДополнительныеОтчетыИОбработки</types>
     <types>ConstantValueManager.ИспользоватьРазделениеПоОбластямДанных</types>
     <types>CatalogObject.ПредопределенныеВариантыОтчетов</types>
     <types>ConstantValueManager.ВерсияДатЗапретаИзменения</types>
     <types>ConstantValueManager.ИспользоватьГруппыПользователей</types>
     <types>CatalogObject.ВнешниеПользователи</types>
-    <types>ConstantValueManager.СтатусОбновленияКонфигурации</types>
     <types>CatalogObject.ГруппыДоступа</types>
     <types>ConstantValueManager.СписокРасширенийТекстовыхФайлов</types>
     <types>CatalogObject.ВерсииРасширений</types>
@@ -76,8 +80,8 @@
     <types>CatalogObject.ГруппыПользователей</types>
     <types>ConstantValueManager.КаталогВременныхФайловДляLinux</types>
     <types>ConstantValueManager.ИспользоватьДатыЗапретаЗагрузки</types>
+    <types>ConstantValueManager.РегистрироватьИзмененияПравДоступа</types>
     <types>ConstantValueManager.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</types>
-    <types>ConstantValueManager.НастройкаПроксиСервера</types>
     <types>ConstantValueManager.ИспользоватьУдалениеПомеченныхОбъектов</types>
     <types>ConstantValueManager.УчетнаяЗаписьДляВосстановленияПароля</types>
     <types>CatalogObject.Пользователи</types>

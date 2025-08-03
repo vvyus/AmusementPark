@@ -32,16 +32,14 @@
   <content>InformationRegister.ПользовательскиеМакетыПечати</content>
   <content>Catalog.УчетныеЗаписиЭлектроннойПочты</content>
   <content>Catalog.ПрофилиГруппДоступа</content>
+  <content>Catalog.ДополнительныеОтчетыИОбработки</content>
   <content>CommonForm.ОписаниеИзмененийПрограммы</content>
-  <content>DataProcessor.УстановкаОбновлений</content>
   <content>DataProcessor.АвтоматическоеИзвлечениеТекстов</content>
   <content>Catalog.ВариантыОтчетов</content>
   <content>InformationRegister.ДатыЗапретаИзменения</content>
   <content>CommonPicture.РазделАдминистрирование48</content>
   <content>Catalog.РассылкиОтчетов</content>
-  <content>Report.АнализЖурналаРегистрации</content>
   <content>DataProcessor.ПанельАдминистрированияБСП</content>
-  <content>CommonForm.ПараметрыПроксиСервера</content>
   <content>InformationRegister.НомераОтсканированныхФайлов</content>
   <content>DataProcessor.ОценкаПроизводительности</content>
   <content>Report.ДатыЗапретаЗагрузки</content>
@@ -49,9 +47,10 @@
   <content>DataProcessor.ГрупповоеИзменениеРеквизитов</content>
   <content>DataProcessor.РезультатыОбновленияПрограммы</content>
   <content>Catalog.КлючевыеОперации</content>
-  <content>Report.СведенияОПользователях</content>
   <content>CommonCommand.ПанельОтчетовАдминистрирование</content>
   <content>DataProcessor.ЗагрузкаДанныхИзФайла</content>
+  <content>CommonCommand.ДополнительныеОбработкиАдминистрирование</content>
+  <content>CommonCommand.ДополнительныеОтчетыАдминистрирование</content>
   <content>DataProcessor.ПереносФайлов</content>
   <content>Report.ОбъемНенужныхФайлов</content>
   <content>DataProcessor.ПоискИУдалениеДублей</content>
@@ -67,10 +66,8 @@
   <content>Report.ОценкаПроизводительности</content>
   <content>DataProcessor.ПодключениеОбсуждений</content>
   <content>Report.ИспользуемыеВнешниеРесурсы</content>
-  <content>InformationRegister.АдресныеОбъекты</content>
-  <content>CommonForm.УстановленныеИсправления</content>
-  <content>Report.АнализПравДоступа</content>
   <content>CommonForm.ВосстановлениеПаролей</content>
-  <content>Report.ПраваРолей</content>
   <content>Report.ДлительностьОтложенногоОбновления</content>
+  <content>CommonForm.НастройкиРегистрацииСобытийДоступаКДанным</content>
+  <subsystems>КонтрольРаботыПользователей</subsystems>
 </mdclass:Subsystem>

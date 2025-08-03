@@ -10,13 +10,12 @@
   </synonym>
   <type>
     <types>ConstantValueManager.НеИспользоватьРазделениеПоОбластямДанных</types>
-    <types>ConstantValueManager.ИспользоватьНапоминанияПользователя</types>
     <types>ConstantValueManager.ИспользоватьГруппыВнешнихПользователей</types>
     <types>ConstantValueManager.ОграничиватьДоступНаУровнеЗаписей</types>
-    <types>ConstantValueManager.ИсточникДанныхАдресногоКлассификатора</types>
     <types>ConstantValueManager.ХранитьФайлыВТомахНаДиске</types>
     <types>ConstantValueManager.ИспользоватьВнешнихПользователей</types>
     <types>ConstantValueManager.ИспользуютсяПрофилиБезопасности</types>
+    <types>ConstantValueManager.ИспользоватьДополнительныеОтчетыИОбработки</types>
     <types>ConstantValueManager.ИспользоватьДополнительныеРеквизитыИСведения</types>
     <types>ConstantValueManager.ИспользоватьРазделениеПоОбластямДанных</types>
     <types>ConstantValueManager.ИспользоватьГруппыПользователей</types>
